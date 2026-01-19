@@ -1,30 +1,38 @@
-Here's a polished version of your GitHub profile README to make it more professional:
+👋 Hi, I'm Zeeshan!
 
----
+I’m a data science enthusiast currently building a strong foundation in Python and exploring how data can be transformed into meaningful insights. I enjoy continuous learning, collaboration, and applying data-driven techniques to solve real-world problems.
 
-# Hi, I'm Zeeshan! 👋
+👀 Interests
 
-I'm passionate about data science and am currently expanding my knowledge in Python. My goal is to continuously learn, collaborate, and apply my skills in real-world projects.
+Data Science & Data Analysis
 
-### 👀 What I’m interested in:
-- Data science, data analysis, and machine learning
-- Building projects that involve data wrangling and predictive modeling
-- Collaborating with other data enthusiasts and developers
+Machine Learning & Predictive Modeling
 
-### 🌱 Currently learning:
-- Python Programming
-- Data visualization and exploration
-- Machine learning algorithms and techniques
+Data Wrangling, Cleaning, and Feature Engineering
 
-### 💞️ Looking to collaborate on:
-- Open-source data science projects
-- Python projects that involve data manipulation, analysis, or machine learning
-- Research-based collaborations in data science
+Real-world, impact-driven data projects
 
-### 📫 How to reach me:
-- **Email:** harryzeeshan420@gmail.com
+🌱 Currently Learning
 
-### ⚡ Fun fact:
-- I enjoy learning new technologies and applying them to solve data-related challenges. I’m always curious to explore the intersection of data science and real-world problems.
+Python Programming for Data Science
 
+Data Visualization & Exploratory Data Analysis (EDA)
 
+Machine Learning Algorithms & Techniques
+
+💞️ Looking to Collaborate On
+
+Open-source data science projects
+
+Python projects involving data manipulation, analysis, or machine learning
+
+Research-based collaborations in data science
+
+📫 How to Reach Me
+
+📧 Email: mianzeeshan.online.com
+
+⚡ Fun Fact
+
+I enjoy learning new technologies and applying them to solve data-related challenges. I’m always curious about the intersection of data science and real-world problems.
+lets get done.
