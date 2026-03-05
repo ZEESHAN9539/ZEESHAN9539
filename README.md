@@ -1,21 +1,34 @@
-I am a motivated Data Science enthusiast and .NET Developer with a growing foundation in Python, SQL, C#, and ASP.NET Core. I am passionate about transforming data into meaningful insights and building scalable, data-driven applications that solve real-world business problems.
+# Hi 👋 I'm Zeeshan Akhtar
 
-My focus is on combining analytical thinking with strong software development skills to design intelligent solutions. I continuously work on improving my expertise in data analysis, machine learning, backend development, and database management.
+🎓 MSc Bioinformatics Student at University of Bonn  
+📊 Aspiring Data Scientist | Machine Learning Enthusiast  
 
-I have a strong interest in data wrangling, exploratory data analysis, predictive modeling, and application development. I enjoy working on practical projects that create measurable impact and enhance decision-making processes.
+I am passionate about Data Science, Machine Learning, and Data Analysis.  
+I enjoy transforming data into insights and building predictive models.
 
-Currently, I am strengthening my knowledge in:
+## 🔬 Skills
+- Python
+- Data Analysis
+- Pandas
+- NumPy
+- Machine Learning
+- Scikit-Learn
+- SQL
+- Data Visualization (Matplotlib, Seaborn, Plotly)
 
-Python for Data Science
+## 📊 Data Science Projects
 
-Data Visualization and Exploratory Data Analysis
+### Flight Delay Analysis Dashboard
+Interactive dashboard to analyze airline flight delays using Python, Pandas, and Plotly Dash.
 
-Machine Learning Algorithms and Model Optimization
+### Customer Churn Prediction
+Machine learning model to predict customer churn using classification algorithms.
 
-ASP.NET Core and Web API Development
+### House Price Prediction
+Regression model for predicting housing prices using Scikit-Learn.
 
-SQL and Database Design
+## 🛠 Tools
+Python | Jupyter Notebook | Git | GitHub | SQL | Dash | Plotly
 
-I am open to collaborating on data science projects, machine learning initiatives, .NET development work, and research-driven solutions that focus on practical implementation and innovation.
-
-I believe in continuous learning, professional growth, and applying technology to solve meaningful challenges.
+## 🌍 Connect with me
+LinkedIn: www.linkedin.com/in/zeeshan-akhtar-249b023b2/
